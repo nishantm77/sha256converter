@@ -16,7 +16,6 @@ if type == "D":
         for b in range(ord('0'), ord('z')):
             for c in range(ord('0'), ord('z')):
                 for d in range(ord('0'), ord('z')):
-                    for d in range(ord('0'), ord('z')):
                         # Generate the input from the characters
                         input = chr(a) + chr(b) + chr(c) + chr(d)
 
